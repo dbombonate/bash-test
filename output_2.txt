@@ -1,0 +1,5 @@
+540.300.759.124   lnx04wercsv    lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #   ADM   
+541.304.759.14    lnx025csv      lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #   ADM   
+541.3.759.124     lnx99usamid    lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #   ADM   
+5.30.7.124        lnx02csv       lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=1   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #   ADM   
+# IPs na sequencia
